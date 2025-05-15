@@ -14,7 +14,7 @@ Javascript, HTML, CSS..., Dart
 
 ## Feedback
 
-If you have any feedback, please reach out to us at dsyntacticdev@gmail.com
+If you have any feedback, please reach out to us at firungu114@gmail.com
 
 ## 🚀 About Me
 
